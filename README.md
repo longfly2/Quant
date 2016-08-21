@@ -10,14 +10,17 @@
 ###视频教程
 * 入门教程：教你写量化策略，Ricequant量化大课堂[Ricequant地址](https://www.ricequant.com/community/topic/761/)
 
-
-###相关资源网站
+###量化交易社区网站
 * [quantopian.com](https://www.quantopian.com/)
 * [uqer.io优矿量化](https://uqer.io/home/)
 * [Ricequant](https://www.ricequant.com/)
 * [JoinQuant聚宽量化交易平台](https://www.joinquant.com/)
 * [知象科技](https://quant.briphant.com)
 * [掘金量化](http://forum.myquant.cn/)
+
+###参考资源
+* [awesome-quant 编程参考库（Python/R/Julia/Java/Haskell/Scala/Frameworks/Reproducing Works）](https://github.com/wilsonfreitas/awesome-quant#java)
+* 
 
 ###Booklist
 
@@ -28,8 +31,7 @@
 ###Paperlist
 > 参考1: [量化交易领域有哪些经典学术论文？zhihu.com](https://www.zhihu.com/question/34178572)<br>
 > 参考2: [Quantitative Trading Literature](http://numericalmethod.com/up/quantitative-trading/literature/)
-
-> #####分类整理
+#####分类整理
 
 ##### （1）General
  *  Numerical Method Inc. publications
