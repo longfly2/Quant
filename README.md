@@ -36,7 +36,7 @@
    * Advanced Trading Rules, Second Edition. Emmanual Acar (Editor), Stephen Satchell (Editor). Butterworth-Heinemann; 2nd edition (June 19, 2002).
 
 ##### （2）Pairs Trading
-    * A New Approach to Modeling and Estimation for Pairs Trading, Binh Do, Robert Faff, Kais Hamza, Working Paper, May 29, 2006.
+  * A New Approach to Modeling and Estimation for Pairs Trading, Binh Do, Robert Faff, Kais Hamza, Working Paper, May 29, 2006.
 Pairs Trading – A Cointegration Approach. Arlen David Schmidt, Finance Honors Thesis, University of Sydney, November 2008, Pages 1–130.
     * Does Simple Pairs Trading Still Work? Binh Do , Robert Faff. Financial Analysts Journal. July/August 2010, Vol. 66, No. 4, pp: 83–95.
     * Implementation of Pairs Trading Strategies. Øyvind Foshaug. Faculty of Science. Koortweg- de Vries Institute for Mathematics. Master of Science Thesis. 2010.
