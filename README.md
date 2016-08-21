@@ -31,9 +31,9 @@
 
 ####分类整理
 ##### （1）General
-  ** Numerical Method Inc. publications
-  ** An Introduction to High-Frequency Finance. Ramazan GenÃ§ay, Michel Dacorogna, Ulrich A. Muller, Olivier Pictet, Richard Olsen.Academic Press. 2001.
-  ** Advanced Trading Rules, Second Edition. Emmanual Acar (Editor), Stephen Satchell (Editor). Butterworth-Heinemann; 2nd edition (June 19, 2002).<br>
+   *  Numerical Method Inc. publications
+   * An Introduction to High-Frequency Finance. Ramazan GenÃ§ay, Michel Dacorogna, Ulrich A. Muller, Olivier Pictet, Richard Olsen.Academic Press. 2001.
+   * Advanced Trading Rules, Second Edition. Emmanual Acar (Editor), Stephen Satchell (Editor). Butterworth-Heinemann; 2nd edition (June 19, 2002).<br>
 ##### （2）Pairs Trading
   * A New Approach to Modeling and Estimation for Pairs Trading, Binh Do, Robert Faff, Kais Hamza, Working Paper, May 29, 2006.
 Pairs Trading – A Cointegration Approach. Arlen David Schmidt, Finance Honors Thesis, University of Sydney, November 2008, Pages 1–130.
