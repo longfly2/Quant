@@ -1,4 +1,4 @@
-# Quant-Rec（量化交易-金融推荐系统）
+# Quant
 > ##先导参考
 > * [大数据/推荐系统](https://github.com/Tulongf/Big_Data_Resources)<br> 
 > * [程序化广告](https://github.com/Tulongf/Ad-Rec/)<br>
